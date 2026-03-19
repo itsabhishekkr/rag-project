@@ -24,8 +24,7 @@ npm install
 npm run dev
 ```
 
-## Backend
-Github: https://github.com/Nelsonlin0321/webdev-rag-backend-api
+
 
 ## Build Docker
 ```shell
